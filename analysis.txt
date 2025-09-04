@@ -1,0 +1,10 @@
+Sachin : 1
+Tendulkar : 1
+has : 3
+100 : 1
+Centuries : 3
+Virat : 1
+Kohli : 1
+80 : 1
+Ponting : 1
+70 : 1
